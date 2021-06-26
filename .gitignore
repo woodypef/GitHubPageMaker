@@ -16,8 +16,8 @@ package-lock.json
 # site build
 *.gem
 *.rbc
-.bundle
-.config
+#.bundle
+#.config
 coverage
 InstalledFiles
 lib/bundler/man
