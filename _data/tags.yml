@@ -1,0 +1,12 @@
+jekyll : #tag명 설정하기
+  name: jekyll
+  description: False #나중에 설명할 때 쓰기
+  cover: assets/built/images/background-frontend.jpg #cover image
+python :
+  name: python
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+economy :
+  name: economy
+  description: False
+  cover: assets/built/images/background-frontend.jpg
