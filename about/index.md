@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-about에 이것이 나온다면 about/index.md로 갈 것
+빌드 및 배포 자동화를 실행했어요!!
